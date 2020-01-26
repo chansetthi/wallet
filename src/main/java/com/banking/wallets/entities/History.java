@@ -13,7 +13,7 @@ public class History {
     private String payer;
     private String recelver;
     private String money;
-    private String test;
+    private String tests;
 
     public Long getId() {
         return id;
